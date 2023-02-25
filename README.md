@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![24-02-23slowly-writeon_full](https://user-images.githubusercontent.com/126184470/221381656-b2e82bca-fbba-42eb-89a4-1779dcba842d.gif)
+
+
 <!--
 **slowly-dev/slowly-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
